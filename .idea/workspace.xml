@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7500e05-dc47-41a4-a37b-5d33d5c1d5c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32kFLG2kRZTskvXWv9CNYRG4QFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Execicio4ReservasQuarto.App.executor": "Run",
+    "Application.Exercicio1CadastroAluno.App.executor": "Run",
+    "Application.Exercicio2ListagemFuncionarios.App.executor": "Run",
+    "Application.Exercicio3BuscarFilme.App.executor": "Run",
+    "Application.Exercicio5GerenciamentoTarefas.App.executor": "Run",
+    "Application.Questao02.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cvasconc/IdeaProjects/cap-clean_archtecture-aula02"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercicio1CadastroAluno.Facade" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio2ListagemFuncionarios.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio6PedidosLanchonete.App" />
+      <module name="Lista01CleanArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio6PedidosLanchonete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execicio4ReservasQuarto.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execicio4ReservasQuarto.App" />
+      <module name="Lista01CleanArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Execicio4ReservasQuarto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio2ListagemFuncionarios.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio2ListagemFuncionarios.App" />
+      <module name="Lista01CleanArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio2ListagemFuncionarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3BuscarFilme.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio3BuscarFilme.App" />
+      <module name="Lista01CleanArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio3BuscarFilme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio5GerenciamentoTarefas.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio5GerenciamentoTarefas.App" />
+      <module name="Lista01CleanArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio5GerenciamentoTarefas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio2ListagemFuncionarios.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Exercicio5GerenciamentoTarefas.App" />
+        <item itemvalue="Application.Execicio4ReservasQuarto.App" />
+        <item itemvalue="Application.Exercicio3BuscarFilme.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7500e05-dc47-41a4-a37b-5d33d5c1d5c4" name="Changes" comment="" />
+      <created>1757956607153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757956607153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Exercicio2ListagemFuncionarios/App.java</url>
+          <line>9</line>
+          <properties class="Exercicio2ListagemFuncionarios.App" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
