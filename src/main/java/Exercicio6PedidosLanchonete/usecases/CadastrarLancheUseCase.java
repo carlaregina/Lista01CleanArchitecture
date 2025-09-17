@@ -14,8 +14,13 @@ public class CadastrarLancheUseCase {
     }
 
     public void executar(String nome, double preco, StatusLanche status) {
+        if (nome == null || nome.trim().isEmpty()) {
+            throw new IllegalArgumentException("Nome do lanche não pode ser vazio");
+        }
+
         Lanche lanche = new Lanche(status, preco, nome);
         repository.salvar(lanche);
     }
+
 
 }

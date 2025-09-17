@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7500e05-dc47-41a4-a37b-5d33d5c1d5c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio6PedidosLanchonete/usecases/CadastrarLancheUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio6PedidosLanchonete/usecases/CadastrarLancheUseCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +18,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;carlaregina&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/carlaregina/Lista01CleanArchitecture.git&quot;,
+    &quot;accountId&quot;: &quot;c352e6a0-d4c9-4e61-9703-44bcfe190090&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -46,10 +56,20 @@
     "Application.Exercicio3BuscarFilme.App.executor": "Run",
     "Application.Exercicio5GerenciamentoTarefas.App.executor": "Run",
     "Application.Questao02.App.executor": "Run",
+    "JUnit.BuscarFilmePorTituloUseCaseTest.executor": "Run",
+    "JUnit.CadastrarLancheUseCaseTest.executor": "Run",
+    "JUnit.CadastrarQuartoUseCaseTest.executor": "Run",
+    "JUnit.CriarPedidoUseCaseTest.executor": "Run",
+    "JUnit.CriarPedidoUseCaseTest.naoDeveAdicionarLancheAposPedidoFinalizado.executor": "Run",
+    "JUnit.CriarTarefaUseCaseTest.executor": "Run",
+    "JUnit.ListarQuartosUseCaseTest.executor": "Run",
+    "JUnit.ListarTarefasPendentesUseCaseTest.executor": "Run",
+    "Maven.Lista01CleanArchitecture [clean].executor": "Run",
+    "Maven.Lista01CleanArchitecture [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cvasconc/IdeaProjects/cap-clean_archtecture-aula02"
+    "last_opened_file_path": "C:/Users/cvasconc/IdeaProjects/exemplo_CA_testes"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,79 +77,89 @@
       <recent name="Exercicio1CadastroAluno.Facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio2ListagemFuncionarios.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio6PedidosLanchonete.App" />
+  <component name="RunManager" selected="JUnit.BuscarFilmePorTituloUseCaseTest">
+    <configuration name="BuscarFilmePorTituloUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lista01CleanArchitecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio6PedidosLanchonete.*" />
+          <option name="PATTERN" value="Exercicio3Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Exercicio3Test" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio3Test.BuscarFilmePorTituloUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execicio4ReservasQuarto.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Execicio4ReservasQuarto.App" />
+    <configuration name="CadastrarLancheUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lista01CleanArchitecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Execicio4ReservasQuarto.*" />
+          <option name="PATTERN" value="Exercicio6Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Exercicio6Test" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio6Test.CadastrarLancheUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio2ListagemFuncionarios.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio2ListagemFuncionarios.App" />
+    <configuration name="CadastrarQuartoUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lista01CleanArchitecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio2ListagemFuncionarios.*" />
+          <option name="PATTERN" value="Exercicio4Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Exercicio4" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio4Test.CadastrarQuartoUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio3BuscarFilme.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio3BuscarFilme.App" />
+    <configuration name="CriarTarefaUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lista01CleanArchitecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio3BuscarFilme.*" />
+          <option name="PATTERN" value="Execicio5Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Execicio5Test" />
+      <option name="MAIN_CLASS_NAME" value="Execicio5Test.CriarTarefaUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio5GerenciamentoTarefas.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio5GerenciamentoTarefas.App" />
+    <configuration name="ListarQuartosUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lista01CleanArchitecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio5GerenciamentoTarefas.*" />
+          <option name="PATTERN" value="Exercicio4Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Exercicio4" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio4Test.ListarQuartosUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio2ListagemFuncionarios.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Exercicio5GerenciamentoTarefas.App" />
-        <item itemvalue="Application.Execicio4ReservasQuarto.App" />
-        <item itemvalue="Application.Exercicio3BuscarFilme.App" />
+        <item itemvalue="JUnit.BuscarFilmePorTituloUseCaseTest" />
+        <item itemvalue="JUnit.ListarQuartosUseCaseTest" />
+        <item itemvalue="JUnit.CadastrarQuartoUseCaseTest" />
+        <item itemvalue="JUnit.CriarTarefaUseCaseTest" />
+        <item itemvalue="JUnit.CadastrarLancheUseCaseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +179,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Exercicio2ListagemFuncionarios/App.java</url>
-          <line>9</line>
+          <line>10</line>
           <properties class="Exercicio2ListagemFuncionarios.App" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
